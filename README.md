@@ -60,11 +60,12 @@
 ### Completed Assembly
 ![Screenshot 2024-10-16 221937](https://github.com/user-attachments/assets/6c3c625a-81d4-4592-9764-0310d72d356b)
 ### Playing with Axis
-![Screenshot 2024-10-14 230413](https://github.com/user-attachments/assets/17ee0936-43af-4480-a5e4-5a4bd8562d64)
+<img width="1919" height="1004" alt="Screenshot 2026-03-12 233616" src="https://github.com/user-attachments/assets/6274a3b7-559f-4da1-a123-edcf5d8e7b42" />
 
 
 ### Name: JEFFRIN I
 ### Register Number: 212225240060
+### Slot: T1-Y3
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
